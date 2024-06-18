@@ -9,16 +9,16 @@
 None in this field. Just came out of university in June 2024.
 
 ### Skills
-#### Proficient Programming Languages:
+### Proficient Programming Languages:
 - **C++**
-#### Other Programming Languages:
+### Other Programming Languages:
 - **C**
 - **Python**
 - **Angelscript**
-#### Game Engines:
+### Game Engines:
 - **Unreal Engine**
 - **Unity**
-#### Development Tools:
+### Development Tools:
 - **Visual Studio**
 - **Visual Studio Code**
 - **Github**
