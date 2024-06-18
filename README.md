@@ -1,12 +1,12 @@
 # Game Programmer
 
 ### Education
-- Game Programmer, Luleå University of Technology (3 years)
-  * Additional courses: Game design, Introduction to Artificial Intelligence.
+- Game Programmer, Luleå University of Technology (2021-2024)
+  * Additional courses: Game Design, and Introduction to Artificial Intelligence.
 - Network Technology, Mälardalens University (2 years)
 
 ### Work Experience
-None, just came out of university in June 2024.
+None in this field. Just came out of university in June 2024.
 
 ### Skills
 - Proficient Programming Languages: C++.
