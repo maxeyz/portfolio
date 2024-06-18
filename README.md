@@ -1,14 +1,14 @@
 # Game Programmer
 
-### Education
+## Education
 - Game Programmer, Luleå University of Technology (2021-2024)
   * Additional Courses: Game Design, and Introduction to Artificial Intelligence.
 - Network Technology, Mälardalens University (2018-2019)
 
-### Work Experience
+## Work Experience
 None in this field. Just came out of university in June 2024.
 
-### Skills
+## Skills
 ### Proficient Programming Languages:
 - **C++**
 ### Other Programming Languages:
@@ -27,7 +27,7 @@ None in this field. Just came out of university in June 2024.
 - **Hansoft**
 - **FL Studio**
 
-### Projects
+## Projects
 - Bobby [enter info].
 - Turn the Tide [enter info].
 - Test Track [enter info].
