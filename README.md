@@ -2,7 +2,7 @@
 
 ### Education
 - Game Programmer, Luleå University of Technology
-- * Extra courses: Game design, Introduction to Artificial Intelligence.
+  * Extra courses: Game design, Introduction to Artificial Intelligence.
 - Network Technology, Mälardalens University
 
 ### Work Experience
@@ -10,9 +10,9 @@ None, just came out of university in June 2024.
 
 ### Skills
 - Proficient Programming Languages: C++.
-- Other Programming Languages: C, Python, Angelscript.
-- Game Engines: Unreal Engine, Unity.
-- Other Tools: Git, Perforce, Helix Swarm, Hansoft.
+- Other Programming Languages: C, Python, and Angelscript.
+- Game Engines: Unreal Engine, and Unity.
+- Other Tools: Git, Perforce, Helix Swarm, Hansoft, and FL Studio.
 
 ### Projects
 - Bobby [enter info].
