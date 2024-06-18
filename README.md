@@ -21,7 +21,7 @@ None in this field. Just came out of university in June 2024.
 #### Development Tools:
 - **Visual Studio**
 - **Visual Studio Code**
-- **Git**
+- **Github**
 - **Perforce**
 - **Helix Swarm**
 - **Hansoft**
