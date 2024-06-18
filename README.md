@@ -9,10 +9,23 @@
 None in this field. Just came out of university in June 2024.
 
 ### Skills
-- Proficient Programming Languages: C++.
-- Other Programming Languages: C, Python, and Angelscript.
-- Game Engines: Unreal Engine, and Unity.
-- Other Tools: Git, Perforce, Helix Swarm, Hansoft, and FL Studio.
+#### Proficient Programming Languages:
+- **C++**
+#### Other Programming Languages:
+- **C**
+- **Python**
+- **Angelscript**
+#### Game Engines:
+- **Unreal Engine**
+- **Unity**
+#### Development Tools:
+- **Visual Studio**
+- **Visual Studio Code**
+- **Git**
+- **Perforce**
+- **Helix Swarm**
+- **Hansoft**
+- **FL Studio**
 
 ### Projects
 - Bobby [enter info].
