@@ -14,23 +14,23 @@ None in this field. Just came out of university in June 2024.
 - **C++**
 
 ### Other Programming Languages:
-- - **C**
-- - **Python**
-- - **Angelscript**
+- **C**
+- **Python**
+- **Angelscript**
 
 ### Game Engines:
 - **Unreal Engine**
 - **Unity**
 
 ### Development Tools:
-- - **Visual Studio**
-- - **Visual Studio Code**
-- - **Git**
-- - **GitHub**
-- - **Perforce**
-- - **Helix Swarm**
-- - **Hansoft**
-- - **FL Studio**
+- **Visual Studio**
+- **Visual Studio Code**
+- **Git**
+- **GitHub**
+- **Perforce**
+- **Helix Swarm**
+- **Hansoft**
+- **FL Studio**
 
 ## Projects
 - Bobby [enter info].
