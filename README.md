@@ -56,9 +56,9 @@ None in this field. Just came out of university in June 2024.
 ![Test Track GIF](https://user-images.githubusercontent.com/13751243/207295900-6bd38dcf-dff4-472a-9328-8066aaa0c0f9.gif)
 
 - **About**
- - "Test Track" was a short project I did alongside 4 other classmates at LTU using UE5.
+ - "Test Track" was made at the request of Colmis Proving Ground and was done alongside 4 other students at LTU using UE5. They wanted a realistic car simulator where one could test how it would feel to drive on one of their race tracks from the comfort of their home. To make it as realistic as possible, the map is a section of their own track and was 3D scanned and provided to us by the project owner. The final version we made was simply a base and took roughly 3 weeks, from which the project owner could then continue to work on.
 
 - **My Role**
- - I contributed with the weathers that one can switch to, they are: clear, foggy, and snowing. I created the VFX particles using Niagara System and with the use of Blueprints one can toggle whatever weather they want.
+ - I contributed with the different type of weathers. The VFX particles were made using Niagara System and with the use of Blueprints, one can toggle between whatever weather they desire.
 
 - OpenGL Graphics Engine [enter info].
