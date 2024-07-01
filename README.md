@@ -49,11 +49,15 @@ None in this field. Just came out of university in June 2024.
     **Boss and Minion Behavior:** I was responsible for creating the behavior for the boss and the slime minions that spawn during the fight. I implemented a finite-state machine (FSM) for this purpose.
 
     **Boss Behavior:** The boss had various attack states that it could choose from based on the distance and position of Bobby. Other states included popping up from manholes during the initial phase and moving between manholes.
-**Minion Behavior:** The minions had simplified states compared to the boss, consisting of idle/wander, chase, and attack states.
-**Boss System:** I developed a subsystem that mimicked the singleton pattern, known as the "boss system". This system was crucial for managing different phases of the boss fight and controlling the flow, such as determining the number of tentacles that would spawn at certain times.
+    
+    **Minion Behavior:** The minions had simplified states compared to the boss, consisting of idle/wander, chase, and attack states.
+
+    **Boss System:** I developed a subsystem that mimicked the singleton pattern, known as the "boss system". This system was crucial for managing different phases of the boss fight and controlling the flow, such as determining the number of tentacles that would spawn at certain times.
 
     **Version Control and Code Review:** We used a combination of Perforce and Helix Swarm for storing project data and code review.
+    
     **Project Planning:** Hansoft was utilized for planning our tasks and milestones.
+    
     **Programming Language:** The project was programmed using Angelscript.
  
 ### Turn the Tide
