@@ -64,7 +64,9 @@ None in this field. Just came out of university in June 2024.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Czm_HKpNagA" frameborder="0" allowfullscreen></iframe>
 
 - **About**
-  - "Turn the Tide" was the first game I ever created during my first year at LTU. There were three other people that worked on it and we finished it within roughly four weeks. Turn the Tide is a two player, turn-based game focusing on strategy which takes place in the waters of caribbean. Control a pirate ship to naviage the waters and collect treassure chests which will reward them with power-ups in the form of cards to either aid them in battle or utility to cover the field more efficiently. The cards can be used in combination with the basic navigation to ensure you get in the perfect spot before using the power-up. The last one sailing wins!
+  - "Turn the Tide" was the first game I created during my first year at Luleå University of Technology (LTU). Developed alongside three other team members, we completed the project in roughly four weeks.
+
+Turn the Tide is a two-player, turn-based strategy game set in the waters of the Caribbean. Players control pirate ships, navigating the waters to collect treasure chests. These chests reward players with power-up cards that can be used in battles or for strategic advantages, such as better field coverage. The cards can be combined with basic navigation to position your ship perfectly before deploying a power-up. The objective is to be the last ship sailing, outmaneuvering and outsmarting your opponent to victory.
  
 - **My Role**
   - During this project, I had the opportunity to work on various aspects, including movement, shooting mechanics, map generation, power-ups, and particle effects. Our primary tools were GitHub for version control, Unity for development, and MS Paint for creating UI art. Most of the assets were sourced from Kenney, with the exception of the UI elements, which we created ourselves.
