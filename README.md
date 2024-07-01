@@ -56,7 +56,7 @@ None in this field. Just came out of university in June 2024.
 
     **Version Control and Code Review:** We used a combination of Perforce and Helix Swarm for storing project data and code review.
     
-    **Project Planning:** Hansoft was utilized for planning our tasks and milestones.
+    **Project Planning:** Hansoft was utilized for planning and check the status of tasks and milestones.
     
     **Programming Language:** The project was programmed using Angelscript.
  
@@ -64,10 +64,22 @@ None in this field. Just came out of university in June 2024.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Czm_HKpNagA" frameborder="0" allowfullscreen></iframe>
 
 - **About**
-  - "Turn the Tide" was the first game I ever created during my first year at LTU. There were three other people that worked on it and we finished it within roughly four weeks. Turn the Tide is a two player, turn-based game focusing on strategy which takes place in the waters of caribbean. Control a pirate ship to naviage the waters and collect treassures which will reward them with power-ups in the form of cards to either aid them in battle or utility to cover the field more efficiently. The cards can be used in combination with the basic navigation to ensure you get in the perfect spot before using the power-up. The last one sailing wins!
+  - "Turn the Tide" was the first game I ever created during my first year at LTU. There were three other people that worked on it and we finished it within roughly four weeks. Turn the Tide is a two player, turn-based game focusing on strategy which takes place in the waters of caribbean. Control a pirate ship to naviage the waters and collect treassure chests which will reward them with power-ups in the form of cards to either aid them in battle or utility to cover the field more efficiently. The cards can be used in combination with the basic navigation to ensure you get in the perfect spot before using the power-up. The last one sailing wins!
  
 - **My Role**
-  - I was working on a bit of everything during this project. Implementing the movement, shooting, map generation, and some power ups. We worked using Github and Unity as our main tools, and just MS Paint for the UI art. The assets were not created by us, but downloaded from Kenney with the exception of the UI.
+During this project, I had the opportunity to work on various aspects, including movement, shooting mechanics, map generation, power-ups, and particle effects. Our primary tools were GitHub for version control, Unity for development, and MS Paint for creating UI art. Most of the assets were sourced from Kenney, with the exception of the UI elements, which we created ourselves.
+
+**Movement Implementation**
+To handle movement, I designed a 2D array to represent the game board. Each cell in the array was assigned an integer to denote different elements like walkable areas, islands, and player positions. Treasure chests, however, were managed differently. Instead of representing them in the array, we used collision boxes that triggered interactions when a ship or cannonball entered their boundaries. This allowed ships to pick up treasure chests and cannonballs to destroy them.
+
+**Map Generation**
+For map generation, I implemented a system that randomized the 2D array to place islands and treasure chests. After setting up the array, objects were spawned at the appropriate locations. To ensure balanced gameplay, we introduced a limit on the number of islands and treasure chests that could spawn, which players could adjust before starting a match.
+
+**Shooting Mechanics**
+The shooting mechanics were developed using Unity's physics engine. By adding force and gravity to the cannonballs, we simulated realistic trajectories. After fine-tuning, we ensured that cannonballs traveled exactly three squares on the board. Additionally, collision boxes on the cannonballs detected impacts, triggering the corresponding particle effects to enhance the visual experience.
+
+**Tools and Technologies**
+We used GitHub for version control to manage our codebase efficiently. Unity was our main development platform, providing a robust environment for implementing game mechanics and visual effects. For UI art, we relied on MS Paint, while most game assets were downloaded from Kenney, except for the UI elements, which were custom-made.
 
 ### Test Track
 ![Test Track GIF](https://user-images.githubusercontent.com/13751243/207295900-6bd38dcf-dff4-472a-9328-8066aaa0c0f9.gif)
@@ -76,4 +88,4 @@ None in this field. Just came out of university in June 2024.
  - "Test Track" was made at the request of Colmis Proving Ground and was done alongside 4 other students at LTU using UE5. They wanted a realistic car simulator where one could test how it would feel to drive on one of their race tracks from the comfort of their home. To make it as realistic as possible, the map is a section of their own track and was 3D scanned and provided to us by the project owner. The final version we made was simply a base and took roughly 3 weeks, from which the project owner could then continue to work on.
 
 - **My Role**
- - I contributed with the different type of weathers. The VFX particles were made using Niagara System and with the use of Blueprints, one can toggle between whatever weather they desire.
+ - I contributed with the different type of weathers. The snow particles were made using Niagara System and with the use of Blueprints, one can toggle between whatever weather they desire.
