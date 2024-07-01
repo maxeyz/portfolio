@@ -30,6 +30,7 @@ None in this field. Just came out of university in June 2024.
 - **Helix Swarm**
 - **Hansoft**
 - **FL Studio**
+- **RenderDoc**
 
 ## Projects
 ### Bobby
