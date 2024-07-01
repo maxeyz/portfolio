@@ -53,8 +53,8 @@ None in this field. Just came out of university in June 2024.
 **Boss System:** I developed a subsystem that mimicked the singleton pattern, known as the "boss system". This system was crucial for managing different phases of the boss fight and controlling the flow, such as determining the number of tentacles that would spawn at certain times.
 
     **Version Control and Code Review:** We used a combination of Perforce and Helix Swarm for storing project data and code review.
-**Project Planning:** Hansoft was utilized for planning our tasks and milestones.
-**Programming Language:** The project was programmed using Angelscript.
+    **Project Planning:** Hansoft was utilized for planning our tasks and milestones.
+    **Programming Language:** The project was programmed using Angelscript.
  
 ### Turn the Tide
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Czm_HKpNagA" frameborder="0" allowfullscreen></iframe>
