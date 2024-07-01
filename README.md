@@ -77,5 +77,3 @@ None in this field. Just came out of university in June 2024.
 
 - **My Role**
  - I contributed with the different type of weathers. The VFX particles were made using Niagara System and with the use of Blueprints, one can toggle between whatever weather they desire.
-
-- OpenGL Graphics Engine [enter info].
