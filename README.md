@@ -36,8 +36,6 @@ None in this field. Just came out of university in June 2024.
 
 ## Projects
 ### Bobby
-
-![TestBobby](https://www.youtube.com/embed/YKkjFaRAAGY)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YKkjFaRAAGY" frameborder="0" allowfullscreen></iframe>
 
 - **About**
