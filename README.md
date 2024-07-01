@@ -44,7 +44,17 @@ None in this field. Just came out of university in June 2024.
     In the game, players control Bobby as he explores the town, gathering clues about the sister's disappearance. During his investigation, Bobby uncovers evidence of some kind of creature. Thinking that this creature might have something to do with the sister's disappearance, he follows the trail of clues in hope that he might uncover the truth.
 
 - **My Role**
-  - I worked mainly in a small group of 2 other programers and 3 artists. Our job was to implement the town square where the boss fight takes place, as well as implement the fight itself. I worked both on the tentacles and the small minion creatures that spawns during the fight. I was responsible for creating an FSM for both along with making functionable states, and sole programer for the minions behavior. We were using a mix of Perforce, Helix Swarm, and Hansoft as tools for planning and were using Angelscript as our programing language.
+  - I primarily collaborated with a small team of two other programmers and closely worked with a group from the art team. Our task was to implement the town square, where the boss fight takes place, as well as the fight itself. The project was organized using sublevels, with the town square being one of them.
+
+    **Boss and Minion Behavior:** I was responsible for creating the behavior for the boss and the slime minions that spawn during the fight. I implemented a finite-state machine (FSM) for this purpose.
+
+    **Boss Behavior:** The boss had various attack states that it could choose from based on the distance and position of Bobby. Other states included popping up from manholes during the initial phase and moving between manholes.
+**Minion Behavior:** The minions had simplified states compared to the boss, consisting of idle/wander, chase, and attack states.
+**Boss System:** I developed a subsystem that mimicked the singleton pattern, known as the "boss system". This system was crucial for managing different phases of the boss fight and controlling the flow, such as determining the number of tentacles that would spawn at certain times.
+
+    **Version Control and Code Review:** We used a combination of Perforce and Helix Swarm for storing project data and code review.
+**Project Planning:** Hansoft was utilized for planning our tasks and milestones.
+**Programming Language:** The project was programmed using Angelscript.
  
 ### Turn the Tide
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Czm_HKpNagA" frameborder="0" allowfullscreen></iframe>
