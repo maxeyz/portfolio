@@ -56,7 +56,7 @@ None in this field. Just came out of university in June 2024.
 
     **Version Control and Code Review:** We used a combination of Perforce and Helix Swarm for storing project data and code review.
     
-    **Project Planning:** Hansoft was utilized for planning and check the status of tasks and milestones.
+    **Project Planning:** Hansoft was utilized for planning and check the status of tasks and milestones. We held daily meetings where we discussed what needed to be done for the day and if any new problems had came to light from the day before. Weekly scrum planning were held to plan what we needed to get done that week to meet the milestone.
     
     **Programming Language:** The project was programmed using Angelscript.
  
@@ -83,7 +83,11 @@ None in this field. Just came out of university in June 2024.
 ![Test Track GIF](https://user-images.githubusercontent.com/13751243/207295900-6bd38dcf-dff4-472a-9328-8066aaa0c0f9.gif)
 
 - **About**
-  - "Test Track" was made at the request of Colmis Proving Ground and was done alongside 4 other students at LTU using UE5. They wanted a realistic car simulator where one could test how it would feel to drive on one of their race tracks from the comfort of their home. To make it as realistic as possible, the map is a section of their own track and was 3D scanned and provided to us by the project owner. The final version we made was simply a base and took roughly 3 weeks, from which the project owner could then continue to work on.
+  - "Test Track" was developed in collaboration with four other students at Luleå University of Technology (LTU) at the request of Colmis Proving Ground. Using UE5, we created a realistic car simulator that allowed users to experience driving on one of their race tracks in Arjeplog, Sweden, from the comfort of their homes.
+
+To ensure the simulation's realism, we used a 3D scan of a section of their actual track, provided by the project owner. By incorporating ice into the track, we created a more accurate driving experience, which could be further customized by adjusting tire grip to match different cars. The project, which took roughly three weeks to complete, resulted in a base version that the project owner could continue to develop and refine.
 
 - **My Role**
-  - I contributed with the different type of weathers. The snow particles were made using Niagara System and with the use of Blueprints, one can toggle between whatever weather they desire.
+  - I was responsible for creating the different weather conditions in the simulator. The three weather types implemented were clear, snowing, and foggy. Using the Niagara System, I created the snow particles, and through Blueprints, I enabled toggling between the various weather conditions. For performance optimization, the particle emitter was attached to the car, ensuring that particles like snowflakes were only emitted in the vicinity of the vehicle.
+
+We used GitHub for version control, employing different branches for code reviews before merging changes into the main branch. The programming language used for this project was Angelscript. Additionally, we held weekly meetings over Discord with the project owner to ensure our work aligned with their expectations and to plan our tasks for the upcoming week.
