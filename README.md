@@ -31,6 +31,7 @@ None in this field. Just came out of university in June 2024.
 - **Hansoft**
 - **FL Studio**
 - **RenderDoc**
+- **CMake**
 
 ## Projects
 ### Bobby
