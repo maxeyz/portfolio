@@ -18,9 +18,10 @@ None in this field. Just came out of university in June 2024.
 - **Python**
 - **Angelscript**
 
-### Game Engines & Frameworks:
+### Game Engines & APIs:
 - **Unreal Engine**
 - **Unity**
+- **OpenGL**
 
 ### Development Tools:
 - **Visual Studio**
