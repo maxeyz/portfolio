@@ -85,7 +85,7 @@ None in this field. Just came out of university in June 2024.
 - **About**
   - "Test Track" was developed in collaboration with four other students at Luleå University of Technology (LTU) at the request of Colmis Proving Ground. Using UE5, we created a realistic car simulator that allowed users to experience driving on one of their race tracks in Arjeplog, Sweden, from the comfort of their homes.
 
-    To ensure the simulation's realism, we used a 3D scan of a section of their actual track, provided by the project owner. By incorporating ice into the track, we created a more accurate driving experience, which could be further customized by adjusting tire grip to match different cars. The project, which took roughly three weeks to complete, resulted in a base version that the project owner could continue to develop and refine.
+    To ensure the simulation's realism, we used a 3D megascan of a section of their actual track, provided by the project owner. By incorporating ice into the track, we created a more accurate driving experience, which could be further customized by adjusting tire grip to match different cars. The project, which took roughly three weeks to complete, resulted in a base version that the project owner could continue to develop and refine.
 
 - **My Role**
   - I was responsible for creating the different weather conditions in the simulator. The three weather types implemented were clear, snowing, and foggy. Using the Niagara System provided by UE5, I created the snow particles, and through Blueprints, I enabled toggling between the various weather conditions. For performance optimization, the particle emitter was attached to the car, ensuring that particles like snowflakes were only emitted in the vicinity of the vehicle.
