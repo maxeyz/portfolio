@@ -56,7 +56,7 @@ None in this field. Just came out of university in June 2024.
 
     **Version Control and Code Review:** We used a combination of Perforce and Helix Swarm for storing project data and code review.
     
-    **Project Planning:** Hansoft was utilized for planning and check the status of tasks and milestones. We held daily meetings where we discussed what needed to be done for the day and if any new problems had came to light from the day before. Weekly scrum planning were held to plan what we needed to get done that week to meet the milestone.
+    **Project Planning:** Hansoft was utilized for planning and check the status of tasks and milestones. Working in an agile environment, we held daily meetings where we discussed what needed to be done for the day and if any new problems had came to light from the day before. Weekly scrum planning were held to plan what we needed to get done that week to meet the milestone.
     
     **Programming Language:** The project was programmed using Angelscript.
  
