@@ -6,7 +6,7 @@
   * Additional Courses: Game Design, and Introduction to Artificial Intelligence.
 - Network Technology, Mälardalens University (2018-2019)
 
-## Work Experience
+## Previous Jobs.
 None in this field.
 
 ## Skills
