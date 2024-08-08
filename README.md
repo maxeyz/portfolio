@@ -7,7 +7,7 @@
 - Network Technology, Mälardalens University (2018-2019)
 
 ## Work Experience
-None in this field. Just came out of university in June 2024.
+None in this field.
 
 ## Skills
 
