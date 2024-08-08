@@ -2,7 +2,7 @@
 
 ## Education
 - Game Programmer, Luleå University of Technology (2021-2024)
-  * About: Learned programming languages such as: C++, Python, C#, Angelscript, with a focus on C++ mainly. Created games, software, graphics and physics engines using tools such as: Unity, Unreal Engine, OpenGL. Experience working with real customers/project managers to develop their product. Theoretical and practical experience working with agile methodology, specifically Scrum.
+  * About: Learned programming languages such as: C++, Python, C#, Angelscript, with a focus on C++. Created games, software, graphics and physics engines using tools such as: Unity, Unreal Engine, OpenGL. Experience working with real customers/project managers to develop their product. Theoretical and practical experience working with agile methodology, specifically Scrum.
   * Additional Courses: Game Design, and Introduction to Artificial Intelligence.
 - Network Technology, Mälardalens University (2018-2019)
 
