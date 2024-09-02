@@ -47,7 +47,7 @@ None in this field.
 - **My Job: Gameplay Programmer**
   - I primarily collaborated with a small team of two other programmers and closely worked with a group from the art team. Our task was to implement the town square, where the boss fight takes place, as well as the fight itself. The project was organized using sublevels, with the town square being one of them.
 
-    **Boss and Minion Behavior:** I was responsible for creating the behavior for the boss and the slime minions that spawn during the fight. I implemented a finite-state machine (FSM) for this purpose. This could have been done with a behavior tree. However, we wanted to use Angelscript as much as possible insteada of visual scripts like blueprints or in this case, behavior trees.
+    **Boss and Minion Behavior:** I was responsible for creating the behavior for the boss and the slime minions that spawn during the fight. I implemented a finite-state machine (FSM) for this purpose. This could have been done with a behavior tree. However, we wanted to use Angelscript as much as possible instead of visual scripts like blueprints or in this case, behavior trees.
 
     **Boss Behavior:** The boss had various attack states that it could choose from based on the distance and position of Bobby. Other states included popping up from manholes during the initial phase and moving between manholes.
     
