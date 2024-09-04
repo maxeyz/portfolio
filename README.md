@@ -1,4 +1,4 @@
-# Game Programmer
+# Portfolio
 
 ## Education
 - Game Development: Programming Major, Luleå University of Technology (2021-2024)
