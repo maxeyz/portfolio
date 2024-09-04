@@ -94,7 +94,7 @@ None in this field.
     We used GitHub for version control, employing different branches for code reviews before merging changes into the main branch. The programming language used for this project was Angelscript. Additionally, we held weekly meetings over Discord with the project owner to ensure our work aligned with their expectations and to plan our tasks for the upcoming week.
 
 ### OpenGL Game Engine
-![Game Engine Example](OpenGL_Engine_example.PNG)
+![Game Engine Example](./assets/img/OpenGL_Engine_example.PNG)
 
 - **About**
  - This is my first attempt on making my own game engine using OpenGL.
