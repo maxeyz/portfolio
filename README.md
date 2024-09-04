@@ -94,7 +94,7 @@ None in this field.
     We used GitHub for version control, employing different branches for code reviews before merging changes into the main branch. The programming language used for this project was Angelscript. Additionally, we held weekly meetings over Discord with the project owner to ensure our work aligned with their expectations and to plan our tasks for the upcoming week.
 
 ### OpenGL Game Engine
-![Game Engine Example](GameEngineGIF.gif)
+![Game Engine Example](./assets/img/GameEngineGIF.gif)
 
 - **About**
   - This is my first attempt on making my own game engine using OpenGL. I began this project during my 2nd year at LTU where I developed the rendering pipeline including shaders, lighting, OBJ/GLTF loading, and different rendering techniques. There is still some work to do with the rendering, but I'm planning to then move on to implementing physics which I have some experience in as I have a separate physics engine I've been working on.
