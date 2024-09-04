@@ -92,3 +92,9 @@ None in this field.
   - I was responsible for creating the different weather conditions in the simulator. The three weather types implemented were clear, snowing, and foggy. Using the Niagara System provided by UE5, I created the snow particles and through Blueprints, I made a simple system to swap between the various weather conditions. For performance optimization, the particle emitter was attached to the car, ensuring that particles like snowflakes were only emitted in the vicinity of the vehicle.
 
     We used GitHub for version control, employing different branches for code reviews before merging changes into the main branch. The programming language used for this project was Angelscript. Additionally, we held weekly meetings over Discord with the project owner to ensure our work aligned with their expectations and to plan our tasks for the upcoming week.
+
+### OpenGL Game Engine
+![Game Engine Example](OpenGL_Engine_example.PNG)
+
+- **About**
+ - This is my first attempt on making my own game engine using OpenGL.
