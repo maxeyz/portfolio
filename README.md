@@ -67,7 +67,7 @@ None in this field.
 - **About**
   - This is my first attempt on making my own game engine using OpenGL. I began this project during my 2nd year at LTU where I developed the rendering pipeline including shaders, lighting, OBJ/GLTF loading, and different rendering techniques. There is still a lot of work to do, but I'm planning to add some physics simulations after I'm satisifed with the rendering modules. It's far from a finished project even as a rendering engine but I wanted to add this so you are able to see some actual code.
 
-    The bulk of the code can be found inside the "/.engine/render" and "/.engine/core" folder. Shaders are located in "/.assets/shader". Link to the repo: [Game Engine Link](https://github.com/maxeyz/OpenGL_Engine)
+    The bulk of the code can be found inside the "/.engine/render" and "/.engine/core" folder. Shaders are located in "/.assets/shader". Some actual folder structures will be added soon. Link to the repo: [Game Engine Link](https://github.com/maxeyz/OpenGL_Engine)
  
 ### Turn the Tide
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Czm_HKpNagA" frameborder="0" allowfullscreen></iframe>
