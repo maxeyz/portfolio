@@ -60,6 +60,14 @@ None in this field.
     **Project Planning:** Hansoft was utilized for planning and check the status of tasks and milestones. Working in an agile environment, we held daily meetings where we discussed what needed to be done for the day and if any new problems had came to light from the day before. Weekly scrum planning were held to plan what we needed to get done that week to meet the milestone.
     
     **Programming Language:** The project was programmed using Angelscript.
+
+### OpenGL Game Engine
+![Game Engine Example](./assets/img/GameEngineGIF.gif)
+
+- **About**
+  - This is my first attempt on making my own game engine using OpenGL. I began this project during my 2nd year at LTU where I developed the rendering pipeline including shaders, lighting, OBJ/GLTF loading, and different rendering techniques. There is still a lot of work to do, but I'm planning to add some physics simulations after I'm satisifed with the rendering modules. It's far from a finished project even as a rendering engine but I wanted to add this so you are able to see some actual code.
+
+    The bulk of the code can be found inside the "/.engine/render" and "/.engine/core" folder. Shaders are located in "/.assets/shader". Link to the repo: [Game Engine Link](https://github.com/maxeyz/OpenGL_Engine)
  
 ### Turn the Tide
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Czm_HKpNagA" frameborder="0" allowfullscreen></iframe>
@@ -92,11 +100,3 @@ None in this field.
   - I was responsible for creating the different weather conditions in the simulator. The three weather types implemented were clear, snowing, and foggy. Using the Niagara System provided by UE5, I created the snow particles and through Blueprints, I made a simple system to swap between the various weather conditions. For performance optimization, the particle emitter was attached to the car, ensuring that particles like snowflakes were only emitted in the vicinity of the vehicle.
 
     We used GitHub for version control, employing different branches for code reviews before merging changes into the main branch. The programming language used for this project was Angelscript. Additionally, we held weekly meetings over Discord with the project owner to ensure our work aligned with their expectations and to plan our tasks for the upcoming week.
-
-### OpenGL Game Engine
-![Game Engine Example](./assets/img/GameEngineGIF.gif)
-
-- **About**
-  - This is my first attempt on making my own game engine using OpenGL. I began this project during my 2nd year at LTU where I developed the rendering pipeline including shaders, lighting, OBJ/GLTF loading, and different rendering techniques. There is still some work to do with the rendering, but I'm planning to then move on to implementing physics which I have some experience in as I have a separate physics engine I've been working on.
-
-    The bulk of the code can be found inside the "/.engine/render" and "/.engine/core" folder. Shaders are located in "/.assets/shader". Link to the repo: [Game Engine Link](https://github.com/maxeyz/OpenGL_Engine)
