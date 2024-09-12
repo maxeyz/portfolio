@@ -65,7 +65,7 @@ None in this field.
 ![Game Engine Example](./assets/img/GameEngineGIF.gif)
 
 - **About**
-  - This is my first attempt on making my own game engine using OpenGL. I began this project during my 2nd year at LTU where I developed the rendering pipeline including shaders, lighting, OBJ/GLTF loading, and different rendering techniques. There is still a lot of work to do, but I'm planning to add some physics simulations after I'm satisifed with the rendering modules. It's far from a finished project even as a rendering engine but I wanted to add this so you are able to see some actual code.
+  - This is my first attempt on making my own game engine using OpenGL. I began this project during my 2nd year at LTU where I developed the rendering pipeline including shaders, lighting, OBJ/GLTF loading, and different rendering techniques (Forward and Deferred Rendering). There is still a lot of work to do, but I'm planning to add some physics simulations after I'm satisifed with the essential rendering modules. It's far from a finished project even as a graphics engine but I wanted to add this to demonstrate some code.
 
     The bulk of the code can be found inside the "/.engine/render" and "/.engine/core" folder. Shaders are located in "/.assets/shader". Some actual folder structures will be added soon. Link to the repo: [Game Engine Link](https://github.com/maxeyz/OpenGL_Engine)
  
