@@ -39,6 +39,8 @@ None in this field.
 ### Bobby
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YKkjFaRAAGY" frameborder="0" allowfullscreen></iframe>
 
+[Manual link to trailer:](https://www.youtube.com/watch?v=YKkjFaRAAGY)
+
 - **About**
   - "Bobby" is the result of a collaboration between the third-year game programming and art students at Luleå University of Technology (LTU). Bobby is a vertical slice of a stop-motion mystery game created in UE5 and is set in a small town, evocative of early 1900s London. The narrative centers on a bedridden girl whose sister has been missing for several weeks. Desperate to find her sister but unable to leave her bed, the girl imagines her favorite toy, Bobby the toy police officer, embarking on the search in her stead. Although Bobby isn't truly alive, he embodies the girl’s fervent hope that someone will find her sister.
 
@@ -71,6 +73,8 @@ None in this field.
  
 ### Turn the Tide
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Czm_HKpNagA" frameborder="0" allowfullscreen></iframe>
+
+[Manual link to trailer:](https://www.youtube.com/watch?v=Czm_HKpNagA)
 
 - **About**
   - "Turn the Tide" was the first game I created during my first year at Luleå University of Technology (LTU). Developed alongside three other team members.
