@@ -70,7 +70,7 @@ None in this field.
     The bulk of the code can be found inside the "/.engine/render" and "/.engine/core" folder. Shaders are located in "/.assets/shader". Some actual folder structures will be added soon. Link to the repo: [Game Engine Link](https://github.com/maxeyz/OpenGL_Engine)
  
 ### Turn the Tide
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=Czm_HKpNagA" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Czm_HKpNagA" frameborder="0" allowfullscreen></iframe>
 
 - **About**
   - "Turn the Tide" was the first game I created during my first year at Luleå University of Technology (LTU). Developed alongside three other team members.
